@@ -10,5 +10,11 @@ It uses **Whisper** for speech-to-text transcription and **LLaMA** for summarizi
 - 🔗 **Google Drive Integration** – Load audio directly from your Drive in Colab.
 
 ---
+---
+
+## 📌 Example Output
+[![Output Screenshot](output.png)](output.png)
+
+---
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/parthm2609/Meeting_minutes/blob/main/meeting_minutes.ipynb)
