@@ -12,7 +12,7 @@ It uses **Whisper** for speech-to-text transcription and **LLaMA** for summarizi
 ---
 ---
 
-## 📌 Example Output
+## 📌 Output
 [![Output Screenshot](output.png)](output.png)
 
 ---
